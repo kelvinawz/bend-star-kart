@@ -1,0 +1,19 @@
+# Unity 生成的本地缓存和构建产物
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+Builds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# IDE 与系统文件
+*.csproj
+*.sln
+*.suo
+*.user
+.idea/
+.vscode/
+.DS_Store
