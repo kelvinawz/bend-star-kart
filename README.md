@@ -2,7 +2,7 @@
 
 原创单机卡通卡丁车竞速 Demo。阶段 1 提供车辆物理、漂移、追尾相机、测试赛道和调参面板；阶段 2 提供集气、双氮气、小喷和起步喷；阶段 3 提供三圈比赛、顺序检查点、计时与结算；阶段 4 加入 3 台 AI 对手、实时名次、轮胎印、漂移火花、氮气尾焰、动态速度线和卡通描边；阶段 5 提供 macOS Universal 构建菜单及 DMG 打包脚本。
 
-源码保存在[GitHub 私有仓库](https://github.com/kelvinawz/bend-star-kart)；最新版 macOS 安装包从 [v0.1.1 发行页](https://github.com/kelvinawz/bend-star-kart/releases/tag/v0.1.1)下载。访问需要仓库权限。
+源码保存在[公开 GitHub 仓库](https://github.com/kelvinawz/bend-star-kart)；最新版 macOS 安装包从 [v0.1.1 发行页](https://github.com/kelvinawz/bend-star-kart/releases/tag/v0.1.1)下载。
 
 ## 环境与导入
 
